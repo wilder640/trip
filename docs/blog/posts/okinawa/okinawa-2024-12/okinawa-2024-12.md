@@ -10,7 +10,7 @@ tags:
     - Okinawa
 comments: false
 banner: img.png
-draft: true
+draft: false
 ---
 
 ## 飛機
