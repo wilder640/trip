@@ -1,5 +1,5 @@
-site_name: Wilder's IT 沉浮日誌
-site_url: https://wilder640.github.io/blog/ # 網站位置
+site_name: Wilder's 遊記
+site_url: https://wilder640.github.io/trip/ # 網站位置
 #repo_url: https://github.com/wilder640/blog # Github Repository位置，用於content.action.view設定
 #edit_uri: edit/main/docs/ # Github Repository編輯位置，用於content.action.edit設定
 
@@ -77,6 +77,7 @@ plugins:
   - tags: # 啟用tag功能
       enabled: true
       tags_file: tags.md
+  - open-in-new-tab
 
 # Markdown Extensions
 markdown_extensions:
