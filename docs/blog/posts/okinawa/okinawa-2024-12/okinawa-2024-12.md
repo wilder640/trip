@@ -42,24 +42,28 @@ draft: false
 === "Day 2"
 
     ``` mermaid
+    %%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
     timeline
         Day 2 : Hotel Gran View Garden Okinawa : OTS臨空豐崎營業所 : 波上宮 : 港川外人住宅 : 沖繩兒童王國 : VESSEL HOTEL CAMPANA OKINAWA : 美國村 : VESSEL HOTEL CAMPANA OKINAWA
     ```
 === "Day 3"
 
     ``` mermaid
+    %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
     timeline
         Day 3 : VESSEL HOTEL CAMPANA OKINAWA : 萬座毛 : 海洋博公園 : 沖繩餘家弗酒店
     ```
 === "Day 4"
 
     ``` mermaid
+    %%{init: { 'logLevel': 'debug', 'theme': 'base' } }%%
     timeline
         Day 4 : 沖繩餘家弗酒店 : 名護鳳梨園 : 古宇利大橋南端觀景台 : 古宇利蝦蝦飯 : 古宇利海洋塔 : JR九州Blossom那霸酒店
     ```
 === "Day 5"
 
     ``` mermaid
+    %%{init: { 'logLevel': 'debug', 'theme': 'neutral' } }%%
     timeline
         Day 5 : JR九州Blossom那霸酒店 : 沖繩世界 : SAN-A浦添西海岸 PARCO CITY : JR九州Blossom那霸酒店
     ```
@@ -91,16 +95,16 @@ A(高雄小港機場) == 車程時間 ==> B(那霸機場) == 車程時間 ==> C(
     <tbody>
         <tr>
             <td data-label="地點">[高雄小港機場](#高雄小港機場)</td>
-            <td data-label="抵達時間"></td>
-            <td data-label="停留時間"></td>
-            <td data-label="費用"></td>
+            <td data-label="抵達時間">1350</td>
+            <td data-label="停留時間">2</td>
+            <td data-label="費用">12043</td>
             <td data-label="備註"></td>
         </tr>
         <tr>
             <td data-label="地點">[那霸機場](#那霸機場)</td>
-            <td data-label="抵達時間"></td>
-            <td data-label="停留時間"></td>
-            <td data-label="費用"></td>
+            <td data-label="抵達時間">1830</td>
+            <td data-label="停留時間">2</td>
+            <td data-label="費用">N/A</td>
             <td data-label="備註"></td>
         </tr>
         <tr>
@@ -124,7 +128,17 @@ A(高雄小港機場) == 車程時間 ==> B(那霸機場) == 車程時間 ==> C(
 
 #### 那霸機場
 
-#### 珀塔瑪國內線到達大廳店
+##### 珀塔瑪國內線到達大廳店
+
+營業時間：7:00am - 21:00pm
+
+地址： 沖繩縣那霸市鏡水150 那霸機場國內線航廈1F
+
+MAP Code： 33 123 279*00
+
+![菜單-1](images/img-3.png)
+![菜單-2](images/img-4.png)
+![菜單-3](images/img-5.png)
 
 #### Hotel Gran ViewGarden Okinawa
 

@@ -307,10 +307,8 @@ th {
     width: 100vw
 }
 
-@media only screen and (min-width: 42.1em) {
-    .dcf-table tr:hover {
-        background-color: var(--bg-table-stripe)!important;
-    }
+.dcf-table tr:hover {
+    background-color: var(--bg-table-stripe)!important;
 }
 
 @media only screen and (max-width:42.09em) {
@@ -326,9 +324,6 @@ th {
     }
     .dcf-table-responsive tr {
     display: block
-    }
-    .dcf-table-striped tbody tr:nth-of-type(2n) {
-        background-color: var(--bg-table-stripe)
     }
     .dcf-table-responsive td {
     -webkit-column-gap: 3.16vw;
