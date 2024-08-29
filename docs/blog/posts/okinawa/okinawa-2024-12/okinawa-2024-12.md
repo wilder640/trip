@@ -113,7 +113,7 @@ graph TD
 
 <figure markdown="span">
     ![珀塔瑪國內線到達大廳店位置](images/img-12.png)
-    <figcaption>計程車搭乘位置（來源：[那霸空港](https://www.naha-airport.co.jp/zh-hant/access/taxi/)）</figcaption>
+    <figcaption>珀塔瑪國內線到達大廳店位置（來源：[那霸空港](https://www.naha-airport.co.jp/zh-hant/access/taxi/)）</figcaption>
 </figure>
 
 ![菜單-1](images/img-3.png)
