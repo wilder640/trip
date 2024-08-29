@@ -13,24 +13,6 @@ banner: img.png
 draft: false
 ---
 
-## 飛機
-
-需於啟程時間前3小時到達機場
-
-<figure markdown="span">
-    ![去程機票](images/img-1.png)
-    <figcaption>高雄至沖繩</figcaption>
-</figure>
-
-<figure markdown="span">
-    ![回程機票](images/img-2.png)
-    <figcaption>沖繩至高雄</figcaption>
-</figure>
-
-## 租車
-
-[日本 Tabirai 租車比價網](https://tc.tabirai.net/car/okinawa/)
-
 ## 行程總表
 
 === "Day 1"
@@ -76,65 +58,59 @@ draft: false
 
 ### Day 1
 
+交通時間
+{: .title}
+
 ``` mermaid
-graph TD
-A(高雄小港機場) == 車程時間 ==> B(那霸機場) == 車程時間 ==> C(珀塔瑪國內線到達大廳店) == 車程時間 ==> D(Hotel Gran ViewGarden Okinawa)
+graph LR
+A(家) == 30分鐘 ==> B(高雄小港機場) == 1小時40分 ==> C(那霸機場) == 20分鐘 ==> E(Hotel Gran ViewGarden Okinawa)
 ```
 
-<table class="dcf-table dcf-table-responsive dcf-table-striped dcf-w-100%" markdown="span">
-    <caption>行程列表</caption>
-    <thead>
-        <tr>
-            <th scope="col">地點</th>
-            <th scope="col">抵達時間</th>
-            <th scope="col">停留時間</th>
-            <th scope="col">費用</th>
-            <th scope="col">備註</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td data-label="地點">[高雄小港機場](#高雄小港機場)</td>
-            <td data-label="抵達時間">1350</td>
-            <td data-label="停留時間">2</td>
-            <td data-label="費用">12043</td>
-            <td data-label="備註"></td>
-        </tr>
-        <tr>
-            <td data-label="地點">[那霸機場](#那霸機場)</td>
-            <td data-label="抵達時間">1830</td>
-            <td data-label="停留時間">2</td>
-            <td data-label="費用">N/A</td>
-            <td data-label="備註"></td>
-        </tr>
-        <tr>
-            <td data-label="地點">[珀塔瑪國內線到達大廳店](#珀塔瑪國內線到達大廳店)</td>
-            <td data-label="抵達時間"></td>
-            <td data-label="停留時間"></td>
-            <td data-label="費用"></td>
-            <td data-label="備註"></td>
-        </tr>
-        <tr>
-            <td data-label="地點">[Hotel Gran ViewGarden Okinawa](#hotel-gran-viewgarden-okinawa)</td>
-            <td data-label="抵達時間"></td>
-            <td data-label="停留時間"></td>
-            <td data-label="費用"></td>
-            <td data-label="備註"></td>
-        </tr>
-    </tbody>
-</table>
+行程列表
+{: .title}
+
+| 時間  | 行程                                                                                    |
+| ----- | --------------------------------------------------------------------------------------- |
+| 12:30 | 搭乘15:30班機，需提前三小時，故於12:30前到場                                            |
+| 18:30 | 出關後前往[珀塔瑪國內線到達大廳店](#珀塔瑪國內線到達大廳店)購買晚餐後搭乘計程車前往飯店 |
+| 21:00 | 到達[Hotel Gran ViewGarden Okinawa](#hotel-gran-viewgarden-okinawa)辦理入住 |
 
 #### 高雄小港機場
 
+##### 基本資訊
+
+- 地址：[高雄市小港區中山四路2號](https://maps.app.goo.gl/vC8fCnfcoqRqWpFm6)
+
+##### 停車場
+
+汽車可以直接停放小港機場附設的停車場，當日最高240元，每天00:00重新計算，
+可以使用[歐特儀-航空站停車預約平台](https://airport.altob.com.tw/)預約及查詢車位，到達方式參考下圖
+
+<figure markdown="span">
+    ![停車場配置圖](images/img-6.png)
+    <figcaption>停車場配置圖（來源：[高雄國際航空站](https://www.kia.gov.tw/Transportation/Airporttraffic/Parking.htm)）</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![汽車停車場路線指引-1](images/img-7.png)
+    ![汽車停車場路線指引-2](images/img-8.png)
+    ![汽車停車場路線指引-3](images/img-9.png)
+    ![汽車停車場路線指引-4](images/img-10.png)
+    <figcaption>汽車停車場路線指引（來源：[高雄國際航空站](https://www.kia.gov.tw/Transportation/Airporttraffic/Parking.htm)）</figcaption>
+</figure>
+
 #### 那霸機場
 
-##### 珀塔瑪國內線到達大廳店
 
-營業時間：7:00am - 21:00pm
+#### 珀塔瑪國內線到達大廳店
 
-地址： 沖繩縣那霸市鏡水150 那霸機場國內線航廈1F
+##### 基本資訊
 
-MAP Code： 33 123 279*00
+- 營業時間：7:00am - 21:00pm
+- 地址： 沖繩縣那霸市鏡水150 那霸機場國內線航廈1F
+- MAP Code： 33123279*00
+
+##### 菜單
 
 ![菜單-1](images/img-3.png)
 ![菜單-2](images/img-4.png)
@@ -406,6 +382,26 @@ graph TD
 </table>
 
 #### 國際通
+
+## 出發前準備
+
+### 飛機
+
+需於啟程時間前3小時到達機場
+
+<figure markdown="span">
+    ![去程機票](images/img-1.png)
+    <figcaption>高雄至沖繩</figcaption>
+</figure>
+
+<figure markdown="span">
+    ![回程機票](images/img-2.png)
+    <figcaption>沖繩至高雄</figcaption>
+</figure>
+
+### 租車
+
+[日本 Tabirai 租車比價網](https://tc.tabirai.net/car/okinawa/)
 
 ## 參考資料
 
