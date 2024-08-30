@@ -122,6 +122,7 @@ markdown_extensions:
 extra_css: # 自定義的CSS檔案
   - assets/stylesheets/extra.css
 extra:
+  generator: false #是否顯示「Made with Material for MkDocs」在footer
   tags:
     HTML: html
     JavaScript: js

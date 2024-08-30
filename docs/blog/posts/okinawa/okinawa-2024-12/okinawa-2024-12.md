@@ -3,7 +3,7 @@ title: 2024年12月沖繩六天五夜自由行規劃
 description: 首次自由行規劃
 date: 2024-08-10
 categories:
-    - Okinawa
+    - 沖繩
 tags:
     - 日本
     - 沖繩
@@ -12,25 +12,67 @@ banner: img.png
 draft: false
 ---
 
+目錄
+{.toctitle}
+
+- [行程](#行程)
+	- [Day 1](#day-1)
+		- [高雄小港機場](#高雄小港機場)
+		- [高雄小港機場停車場](#高雄小港機場停車場)
+		- [珀塔瑪國內線到達大廳店](#珀塔瑪國內線到達大廳店)
+		- [那霸機場](#那霸機場)
+		- [Hotel Gran ViewGarden Okinawa](#hotel-gran-viewgarden-okinawa)
+	- [Day 2](#day-2)
+		- [OTS臨空豐崎營業所](#ots臨空豐崎營業所)
+		- [波上宮](#波上宮)
+		- [港川外人住宅](#港川外人住宅)
+		- [沖繩兒童王國](#沖繩兒童王國)
+		- [VESSEL HOTELCAMPANA OKINAWA](#vessel-hotelcampana-okinawa)
+		- [美國村](#美國村)
+	- [Day 3](#day-3)
+		- [萬座毛](#萬座毛)
+		- [海洋博公園](#海洋博公園)
+		- [沖繩餘家弗酒店](#沖繩餘家弗酒店)
+	- [Day 4](#day-4)
+		- [名護鳳梨園](#名護鳳梨園)
+		- [古宇利大橋南端觀景台](#古宇利大橋南端觀景台)
+		- [古宇利蝦蝦飯](#古宇利蝦蝦飯)
+		- [古宇利海洋塔](#古宇利海洋塔)
+		- [JR九州Blossom那霸酒店](#jr九州blossom那霸酒店)
+	- [Day 5](#day-5)
+		- [沖繩世界](#沖繩世界)
+		- [SAN-A浦添西海岸PARCO CITY](#san-a浦添西海岸parco-city)
+		- [首里城（非必要）](#首里城非必要)
+	- [Day 6](#day-6)
+		- [國際通](#國際通)
+- [出發前準備](#出發前準備)
+	- [機票](#機票)
+	- [租車](#租車)
+- [參考資料](#參考資料)
+
 ## 行程
 
 ### Day 1
 
 交通時間
-{: .title}
+{: .tabletitle}
 
 ``` mermaid
 graph TD
     A == 30分鐘 ==> B == 1小時40分 ==> C == 20分鐘 ==> D
 
-    A(12:00<br>家)
-    B(12:30-15:30<br>高雄小港機場)
-    C(18:30-21:00<br>那霸機場)
-    D(21:30<br>Hotel Gran ViewGarden Okinawa)
+    A(12:00 家)
+    B(12:30-15:30 高雄小港機場)
+    C(18:30-21:00 那霸機場)
+    D(21:30 Hotel Gran ViewGarden Okinawa)
+
+	click B "#高雄小港機場"
+	click C "#那霸機場"
+	click D "#hotel-gran-viewgarden-okinawa"
 ```
 
 行程列表
-{: .title}
+{: .tabletitle}
 
 | 時間        | 行程                                                                                    |
 | ----------- | --------------------------------------------------------------------------------------- |
@@ -40,7 +82,7 @@ graph TD
 
 #### 高雄小港機場
 
-!!! info "基本資訊"
+??? info "基本資訊"
     - 地址：[高雄市小港區中山四路2號](https://maps.app.goo.gl/vC8fCnfcoqRqWpFm6)
 
 #### 高雄小港機場停車場
@@ -63,10 +105,12 @@ graph TD
 
 #### 珀塔瑪國內線到達大廳店
 
-!!!info "基本資訊"
+???info "基本資訊"
     - 營業時間：7:00 - 21:00
     - 地址： 沖繩縣那霸市鏡水150 那霸機場國內線航廈1F
     - MAP Code： 331 232 79*00
+
+所有飯糰均包含白米、雞蛋、午餐肉及海苔，珀塔瑪口味即為原味，其中**炸蝦塔塔醬**口味為最多人選擇
 
 地圖
 {.contentheader}
@@ -79,9 +123,12 @@ graph TD
 菜單
 {.contentheader}
 
-![菜單-1](images/img-3.png)
-![菜單-2](images/img-4.png)
-![菜單-3](images/img-5.png)
+<figure markdown="span">
+	![菜單-1](images/img-3.png)
+	![菜單-2](images/img-4.png)
+	![菜單-3](images/img-5.png)
+    <figcaption>菜單（[來源：pork tamago onigiri](http://porktamago.com/zh-TW/shop/)）</figcaption>
+</figure>
 
 #### 那霸機場
 
@@ -95,7 +142,7 @@ graph TD
 
 #### Hotel Gran ViewGarden Okinawa
 
-!!!info "基本資訊"
+???info "基本資訊"
     - 入住時間：15:00 - 00:00
     - 地址： [沖繩縣豐見城市豐崎3-82](https://maps.app.goo.gl/Wo3V7oudsGcVJPaJ9)
     - MAP Code： 232 543 706*60
@@ -110,13 +157,12 @@ graph TD
 
 ### Day 2
 
-
 交通時間
-{: .title}
+{: .tabletitle}
 
 ``` mermaid
 graph TD
-    A == 車程時間 ==> B == 車程時間 ==> C  == 車程時間 ==> D == 車程時間 ==> E == 車程時間 ==> F == 車程時間 ==> G
+    A == 3分鐘 ==> B == 20分鐘 ==> C  == 15分鐘 ==> D == 車程時間 ==> E == 車程時間 ==> F == 車程時間 ==> G
         
     A(Hotel Gran ViewGarden Okinawa)
     B(OTS臨空豐崎營業所)
@@ -125,19 +171,65 @@ graph TD
     E(沖繩兒童王國)
     F(VESSEL HOTELCAMPANA OKINAWA)
     G(美國村)
+
+	click B "#ots臨空豐崎營業所"
+	click C "#波上宮"
+	click D "#港川外人住宅"
+	click E "#沖繩兒童王國"
+	click F "#vessel-hotelcampana-okinawa"
+	click G "#美國村"
 ```
 
 行程列表
-{: .title}
+{: .tabletitle}
 
 | 時間      | 行程                                                    |
 | --------- | ------------------------------------------------------- |
 | 0800-0900 | 由飯店步行至[OTS臨空豐崎營業所](#ots臨空豐崎營業所)租車 |
-| 0900-1000 | 至[波上宮](#波上宮)參拜後前往一旁沙灘拍照               |
+| 0900-1000 | 至[波上宮](#波上宮)參拜後前往波之上臨港道路拍照         |
+| 1030-1200 | 到達[港川外人住宅](#港川外人住宅) |
 
 #### OTS臨空豐崎營業所
 
+???info "基本資訊"
+    - 入住時間：15:00 - 00:00
+    - 地址： [沖繩縣豐見城市豐崎3-37](https://maps.app.goo.gl/TPvWkrV3v7GBFaqJ9)
+    - MAP Code： 232 543 532*73
+
 #### 波上宮
+
+???info "基本資訊"
+    - 入住時間：09:00 - 17:00
+    - 地址： [沖繩縣那覇市若狭1-25-11](https://maps.app.goo.gl/9pbfCevsqtKLsvfU7)
+    - MAP Code： 33 185 022*71
+
+波上宮在琉球八社中排名第一，並以「當國第一的神社」而受到尊崇。明治時期被列為官幣小社，是守護沖繩最偉大的神殿，但卻在大戰時被燒毀了。
+戰後，昭和二十八年重建正殿與社務所，三十六年重建前殿。平成五年，平成的御造營將正殿以外部分竣工。平成十八年，被指定為那霸市史蹟文化遺產。
+
+內有販賣各式御守，以以下三種較為特殊，第一種為琉球紅型染布的健康護身符、第二種為日式小學生書包造型的交通安全護身符、第三種為貝殼造型的姻緣護身符。
+
+<figure markdown="span">
+	![御守](images/img-14.png)
+    <figcaption>御守（[來源：波上宮](https://www.otsinternational.jp/hotel/cnh/okinawa/tomishiro/47GVG/)）</figcaption>
+</figure>
+
+波上宮最佳拍照地點
+{.contentheader}
+<figure markdown="span">
+	![最佳拍照地點-1](images/img-15.png)
+	![最佳拍照地點-2](images/img-16.png)
+    <figcaption>波上宮最佳拍照地點（[來源：波比看世界](https://bobby.tw/2024-01-07-2698/)）</figcaption>
+</figure>
+
+停車
+{.contentheader}
+
+波上宮本身有提供停車位，但限停30分鐘，若怕太趕可以至以下停車場
+
+- [波之上立體停車場](https://maps.app.goo.gl/JhGi7Gw4HK3yFVaZA)
+    - 地址：3 Chome-1 Tsuji, Naha, Okinawa 900-0037日本
+    - MAP Ｃode：33 155 705*13
+    - 收費：20分鐘100円
 
 #### 港川外人住宅
 
@@ -210,7 +302,7 @@ classDef optional  stroke-dasharray: 5 5
 
 #### SAN-A浦添西海岸PARCO CITY
 
-#### 首里城
+#### 首里城（非必要）
 
 ### Day 6
 

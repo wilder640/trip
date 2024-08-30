@@ -33,8 +33,8 @@
         "allowed_elements": ["figure", "figcaption","table","caption","thead","tbody","tr","td","th"]
       },
       // 針對MD033- inline HTML檢查規則關閉不需檢查的元素
-      "MD023": false,
-      // 關閉MD023對標題不是在行開頭的檢查
+      "MD010": false,
+      "MD007": false,
     },
     "[markdown]": {
       "editor.wordWrap": "off",
