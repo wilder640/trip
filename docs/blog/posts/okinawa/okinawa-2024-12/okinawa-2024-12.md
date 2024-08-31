@@ -26,6 +26,7 @@ draft: false
 		- [OTS臨空豐崎營業所](#ots臨空豐崎營業所)
 		- [波上宮](#波上宮)
 		- [港川外人住宅](#港川外人住宅)
+		- [雞湯拉麵屋 いしぐふー](#雞湯拉麵屋-いしぐふー)
 		- [沖繩兒童王國](#沖繩兒童王國)
 		- [VESSEL HOTELCAMPANA OKINAWA](#vessel-hotelcampana-okinawa)
 		- [美國村](#美國村)
@@ -83,7 +84,7 @@ graph TD
 #### 高雄小港機場
 
 ??? info "基本資訊"
-    - 地址：[高雄市小港區中山四路2號](https://maps.app.goo.gl/vC8fCnfcoqRqWpFm6)
+    - [Google Map](https://maps.app.goo.gl/vC8fCnfcoqRqWpFm6)
 
 #### 高雄小港機場停車場
 
@@ -97,8 +98,17 @@ graph TD
 
 <figure markdown="span">
     ![汽車停車場路線指引-1](images/img-7.png)
+    <figcaption>汽車停車場路線指引（來源：[高雄國際航空站](https://www.kia.gov.tw/Transportation/Airporttraffic/Parking.htm)）</figcaption>
+</figure>
+<figure markdown="span">
     ![汽車停車場路線指引-2](images/img-8.png)
+    <figcaption>汽車停車場路線指引（來源：[高雄國際航空站](https://www.kia.gov.tw/Transportation/Airporttraffic/Parking.htm)）</figcaption>
+</figure>
+<figure markdown="span">
     ![汽車停車場路線指引-3](images/img-9.png)
+    <figcaption>汽車停車場路線指引（來源：[高雄國際航空站](https://www.kia.gov.tw/Transportation/Airporttraffic/Parking.htm)）</figcaption>
+</figure>
+<figure markdown="span">
     ![汽車停車場路線指引-4](images/img-10.png)
     <figcaption>汽車停車場路線指引（來源：[高雄國際航空站](https://www.kia.gov.tw/Transportation/Airporttraffic/Parking.htm)）</figcaption>
 </figure>
@@ -109,8 +119,6 @@ graph TD
     - 營業時間：7:00 - 21:00
     - 地址： 沖繩縣那霸市鏡水150 那霸機場國內線航廈1F
     - MAP Code： 331 232 79*00
-
-所有飯糰均包含白米、雞蛋、午餐肉及海苔，珀塔瑪口味即為原味，其中**炸蝦塔塔醬**口味為最多人選擇
 
 地圖
 {.contentheader}
@@ -123,9 +131,17 @@ graph TD
 菜單
 {.contentheader}
 
+所有飯糰均包含白米、雞蛋、午餐肉及海苔，珀塔瑪口味即為原味，其中**炸蝦塔塔醬**口味為最多人選擇
+
 <figure markdown="span">
 	![菜單-1](images/img-3.png)
+    <figcaption>菜單（[來源：pork tamago onigiri](http://porktamago.com/zh-TW/shop/)）</figcaption>
+</figure>
+<figure markdown="span">
 	![菜單-2](images/img-4.png)
+    <figcaption>菜單（[來源：pork tamago onigiri](http://porktamago.com/zh-TW/shop/)）</figcaption>
+</figure>
+<figure markdown="span">
 	![菜單-3](images/img-5.png)
     <figcaption>菜單（[來源：pork tamago onigiri](http://porktamago.com/zh-TW/shop/)）</figcaption>
 </figure>
@@ -143,8 +159,8 @@ graph TD
 #### Hotel Gran ViewGarden Okinawa
 
 ???info "基本資訊"
-    - 入住時間：15:00 - 00:00
-    - 地址： [沖繩縣豐見城市豐崎3-82](https://maps.app.goo.gl/Wo3V7oudsGcVJPaJ9)
+    - 入住時間：15:00 - 10:00
+    - [Google Map](https://maps.app.goo.gl/Wo3V7oudsGcVJPaJ9)
     - MAP Code： 232 543 706*60
 
 房型價格
@@ -165,9 +181,9 @@ graph TD
     A == 3分鐘 ==> B == 20分鐘 ==> C  == 15分鐘 ==> D == 車程時間 ==> E == 車程時間 ==> F == 車程時間 ==> G
         
     A(Hotel Gran ViewGarden Okinawa)
-    B(OTS臨空豐崎營業所)
-    C(波上宮)
-    D(港川外人住宅)
+    B(0800-0900 OTS臨空豐崎營業所)
+    C(0930-1030 波上宮)
+    D(1100-1300 港川外人住宅)
     E(沖繩兒童王國)
     F(VESSEL HOTELCAMPANA OKINAWA)
     G(美國村)
@@ -186,21 +202,21 @@ graph TD
 | 時間      | 行程                                                    |
 | --------- | ------------------------------------------------------- |
 | 0800-0900 | 由飯店步行至[OTS臨空豐崎營業所](#ots臨空豐崎營業所)租車 |
-| 0900-1000 | 至[波上宮](#波上宮)參拜後前往波之上臨港道路拍照         |
-| 1030-1200 | 到達[港川外人住宅](#港川外人住宅) |
+| 0930-1030 | 至[波上宮](#波上宮)參拜後前往波之上臨港道路拍照         |
+| 1100-1300 | 到達[港川外人住宅](#港川外人住宅)後至[雞湯拉麵屋](#雞湯拉麵屋-いしぐふー)吃午餐 |
 
 #### OTS臨空豐崎營業所
 
 ???info "基本資訊"
-    - 入住時間：15:00 - 00:00
-    - 地址： [沖繩縣豐見城市豐崎3-37](https://maps.app.goo.gl/TPvWkrV3v7GBFaqJ9)
+    - 營業時間：08:00 - 19:00
+    - [Google Map](https://maps.app.goo.gl/q7tjB4gyLh435Bqz9)
     - MAP Code： 232 543 532*73
 
 #### 波上宮
 
 ???info "基本資訊"
-    - 入住時間：09:00 - 17:00
-    - 地址： [沖繩縣那覇市若狭1-25-11](https://maps.app.goo.gl/9pbfCevsqtKLsvfU7)
+    - 營業時間：09:00 - 17:00
+    - [Google Map](https://maps.app.goo.gl/9pbfCevsqtKLsvfU7)
     - MAP Code： 33 185 022*71
 
 波上宮在琉球八社中排名第一，並以「當國第一的神社」而受到尊崇。明治時期被列為官幣小社，是守護沖繩最偉大的神殿，但卻在大戰時被燒毀了。
@@ -215,8 +231,13 @@ graph TD
 
 波上宮最佳拍照地點
 {.contentheader}
+
+可以拍到波上宮在斷崖的照片
 <figure markdown="span">
 	![最佳拍照地點-1](images/img-15.png)
+    <figcaption>波上宮最佳拍照地點（[來源：波比看世界](https://bobby.tw/2024-01-07-2698/)）</figcaption>
+</figure>
+<figure markdown="span">
 	![最佳拍照地點-2](images/img-16.png)
     <figcaption>波上宮最佳拍照地點（[來源：波比看世界](https://bobby.tw/2024-01-07-2698/)）</figcaption>
 </figure>
@@ -226,19 +247,86 @@ graph TD
 
 波上宮本身有提供停車位，但限停30分鐘，若怕太趕可以至以下停車場
 
-- [波之上立體停車場](https://maps.app.goo.gl/JhGi7Gw4HK3yFVaZA)
-    - 地址：3 Chome-1 Tsuji, Naha, Okinawa 900-0037日本
-    - MAP Ｃode：33 155 705*13
+- 波之上立體停車場
+    - [Google Map](https://maps.app.goo.gl/JhGi7Gw4HK3yFVaZA)
+    - MAP Code：33 155 705*13
     - 收費：20分鐘100円
 
 #### 港川外人住宅
+
+地圖
+{.contentheader}
+
+<figure markdown="span">
+	![地圖](images/img-21.png)
+    <figcaption>地圖（[來源：波比看世界](https://bobby.tw/2024-01-07-2698/)）</figcaption>
+</figure>
+
+停車
+{.contentheader}
+
+- Minatogawa States Side Coin Parking Lot
+    - [Google Map](https://maps.app.goo.gl/J54LW4H491FKFxk39)
+    - MAP Code：33 341 031*01
+    - 收費：30分鐘100円
+    - 最近停車場
+- サンパーキング港川駐車場
+	- [Google Map](https://maps.app.goo.gl/dxD8brRfs71QLcWa8)
+	- MAP Code：33 341 362*68
+	- 收費：第一小時300円，之後每小時100円
+
+#### 雞湯拉麵屋 いしぐふー
+
+???info "基本資訊"
+    - 營業時間：10:00–15:00 (周六日延長至16:00，周一二公休)
+    - [Google Map](https://maps.app.goo.gl/G5a4fNYUFbWBaUEr7)
+    - MAP Code： 232 543 532*73
+
+沖繩唯一一家使用山原土雞的雞肉蕎麥麵店，店家本身有停車場，但若有要逛其他地方可能就要去付費停車場比較適合
+，因為座位較少有可能需要等待30-40分鐘，可先到達店內填寫資料等待
+
+菜單
+{.contentheader}
+
+菜單下方套餐部分是指上面的麵會在加上對應的飯，每種麵都有小、中、大及雙倍四種不同的麵量，麵有區分特製（輕度烘烤大腿肉＋椒鹽雞胸肉）、椒鹽（椒鹽雞胸肉），清度烘烤（輕度烘烤大腿肉）、大蔥（無肉）四種類型
+，除了麵以外鍋貼、水餃也是熱門項目。
+<figure markdown="span">
+	![alt text](images/img-17.png)
+	<figcaption>菜單（[來源：瓦妮又在吃](https://misshuan.tw/ishigufu-torisobaya-2018-0921/)）</figcaption>
+</figure>
+<figure markdown="span">
+	![alt text](images/img-18.png)
+	<figcaption>菜單（[來源：瓦妮又在吃](https://misshuan.tw/ishigufu-torisobaya-2018-0921/)）</figcaption>
+</figure>
+
+<figure markdown="span">
+	![alt text](images/img-19.png)
+	<figcaption>菜單（[來源：瓦妮又在吃](https://misshuan.tw/ishigufu-torisobaya-2018-0921/)）</figcaption>
+</figure>
+::: col
+<figure markdown="span">
+	![alt text](images/img-20.png)
+	<figcaption>菜單（[來源：瓦妮又在吃](https://misshuan.tw/ishigufu-torisobaya-2018-0921/)）</figcaption>
+</figure>
 
 #### 沖繩兒童王國
 
 #### VESSEL HOTELCAMPANA OKINAWA
 
-#### 美國村
+???info "基本資訊"
+    - 入住時間：14:00 - 11:00
+    - [Google Map](https://maps.app.goo.gl/Une9Y74mMcUC22Yu5)
+    - MAP Code： 33 525 323*56
 
+房型價格
+{.contentheader}
+
+<figure markdown="span">
+	![飯店房型價格](images/img-22.png)
+    <figcaption>飯店房型價格（[來源：OTS HOTEL](https://www.otsinternational.jp/hotel/cnh/okinawa/chatan/47BHK/)）</figcaption>
+</figure>
+
+#### 美國村
 
 ### Day 3
 
