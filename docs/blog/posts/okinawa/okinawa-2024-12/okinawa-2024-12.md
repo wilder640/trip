@@ -178,15 +178,15 @@ graph TD
 
 ``` mermaid
 graph TD
-    A == 3分鐘 ==> B == 20分鐘 ==> C  == 15分鐘 ==> D == 車程時間 ==> E == 車程時間 ==> F == 車程時間 ==> G
+    A == 3分鐘 ==> B == 20分鐘 ==> C  == 15分鐘 ==> D == 35分鐘 ==> E == 30分鐘 ==> F == 1分鐘 ==> G
         
     A(Hotel Gran ViewGarden Okinawa)
     B(0800-0900 OTS臨空豐崎營業所)
     C(0930-1030 波上宮)
     D(1100-1300 港川外人住宅)
-    E(沖繩兒童王國)
-    F(VESSEL HOTELCAMPANA OKINAWA)
-    G(美國村)
+    E(1400-1700 沖繩兒童王國)
+    F(1800 VESSEL HOTELCAMPANA OKINAWA)
+    G(1830 美國村)
 
 	click B "#ots臨空豐崎營業所"
 	click C "#波上宮"
@@ -310,6 +310,27 @@ graph TD
 </figure>
 
 #### 沖繩兒童王國
+
+???info "基本資訊"
+    - 營業時間：09:30 - 17:30（週二公休）
+    - [Google Map](https://maps.app.goo.gl/t9a1WbidRjaamyiK7)
+    - MAP Code： 33 561 620*12
+    - 票價：1000円
+
+結合動物園和兒童博物館的複合式休閒設施，地形平坦，可使用嬰兒推車
+
+地圖
+{.contentheader}
+
+<figure markdown="span">
+	![地圖](images/img-23.png)
+	<figcaption>地圖（[來源：沖繩兒童王國](https://www.okzm.jp/information-cht/)）</figcaption>
+</figure>
+
+停車
+{.contentheader}
+
+園區附設免費停車場，可容納約700台車
 
 #### VESSEL HOTELCAMPANA OKINAWA
 
