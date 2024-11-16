@@ -3,7 +3,7 @@ title: 2024年12月沖繩六天五夜自由行規劃
 description: 首次自由行規劃
 date: 2024-08-10
 categories:
-    - 沖繩
+    - Okinawa
 tags:
     - 日本
     - 沖繩
@@ -15,216 +15,181 @@ draft: false
 目錄
 {.toctitle}
 
-- [行程](#行程)
-	- [Day 1 - 12/11（三）](#day-1---1211三)
-		- [高雄小港機場](#高雄小港機場)
-		- [珀塔瑪國內線到達大廳店](#珀塔瑪國內線到達大廳店)
-		- [那霸機場](#那霸機場)
-		- [Hotel Gran ViewGarden Okinawa](#hotel-gran-viewgarden-okinawa)
-	- [Day 2 - 12/12（四）](#day-2---1212四)
-		- [OTS臨空豐崎營業所](#ots臨空豐崎營業所)
-		- [波上宮](#波上宮)
-		- [港川外人住宅](#港川外人住宅)
-		- [雞湯拉麵屋 いしぐふー](#雞湯拉麵屋-いしぐふー)
-		- [沖繩兒童王國(非必要)](#沖繩兒童王國非必要)
-		- [VESSEL HOTELCAMPANA OKINAWA](#vessel-hotelcampana-okinawa)
-		- [美國村](#美國村)
-	- [Day 3 - 12/13（五）](#day-3---1213五)
-		- [萬座毛](#萬座毛)
-		- [海洋博公園](#海洋博公園)
-		- [沖繩餘家弗酒店](#沖繩餘家弗酒店)
-	- [Day 4 - 12/14（六）](#day-4---1214六)
-		- [名護鳳梨園](#名護鳳梨園)
-		- [古宇利大橋南端觀景台](#古宇利大橋南端觀景台)
-		- [古宇利蝦蝦飯](#古宇利蝦蝦飯)
-		- [古宇利海洋塔](#古宇利海洋塔)
-		- [那霸日航城市飯店](#那霸日航城市飯店)
-	- [Day 5 - 12/15（日）](#day-5---1215日)
-		- [沖繩世界](#沖繩世界)
-		- [SAN-A浦添西海岸PARCO CITY](#san-a浦添西海岸parco-city)
-		- [首里城（非必要）](#首里城非必要)
-	- [Day 6 - 12/16（一）](#day-6---1216一)
-		- [國際通](#國際通)
-- [出發前準備](#出發前準備)
-	- [機票](#機票)
-	- [租車](#租車)
-- [花費](#花費)
-- [參考資料](#參考資料)
+- [1. 行程](#1-行程)
+  - [1.1. Day 1 - 12/11（三）](#11-day-1---1211三)
+    - [1.1.1. 高雄小港機場](#111-高雄小港機場)
+      - [1.1.1.1.  基本資訊](#1111--基本資訊)
+      - [1.1.1.2. 停車](#1112-停車)
+    - [1.1.2. 珀塔瑪國內線到達大廳店](#112-珀塔瑪國內線到達大廳店)
+      - [1.1.2.1. 基本資訊](#1121-基本資訊)
+      - [1.1.2.2. 地圖](#1122-地圖)
+      - [1.1.2.3. 菜單](#1123-菜單)
+    - [1.1.3. 那霸機場](#113-那霸機場)
+      - [1.1.3.1. 地圖](#1131-地圖)
+    - [1.1.4. Hotel Gran ViewGarden Okinawa](#114-hotel-gran-viewgarden-okinawa)
+      - [1.1.4.1. 基本資訊](#1141-基本資訊)
+      - [1.1.4.2. 價格](#1142-價格)
+  - [1.2. Day 2 - 12/12（四）](#12-day-2---1212四)
+    - [1.2.1. OTS臨空豐崎營業所](#121-ots臨空豐崎營業所)
+      - [1.2.1.1. 基本資訊](#1211-基本資訊)
+    - [1.2.2. 波上宮](#122-波上宮)
+      - [1.2.2.1. 基本資訊](#1221-基本資訊)
+      - [1.2.2.2. 介紹](#1222-介紹)
+      - [1.2.2.3. 波上宮最佳拍照地點](#1223-波上宮最佳拍照地點)
+      - [1.2.2.4. 停車](#1224-停車)
+    - [1.2.3. 港川外人住宅](#123-港川外人住宅)
+    - [1.2.4. 雞湯拉麵屋 いしぐふー](#124-雞湯拉麵屋-いしぐふー)
+    - [1.2.5. 沖繩兒童王國(非必要)](#125-沖繩兒童王國非必要)
+    - [1.2.6. VESSEL HOTELCAMPANA OKINAWA](#126-vessel-hotelcampana-okinawa)
+    - [1.2.7. 美國村](#127-美國村)
+  - [1.3. Day 3 - 12/13（五）](#13-day-3---1213五)
+    - [1.3.1. 萬座毛](#131-萬座毛)
+    - [1.3.2. 百年古家大家阿古豬](#132-百年古家大家阿古豬)
+    - [1.3.3. 海洋博公園](#133-海洋博公園)
+    - [1.3.4. 暖暮拉麵名護店](#134-暖暮拉麵名護店)
+    - [1.3.5. 沖繩餘家弗酒店](#135-沖繩餘家弗酒店)
+  - [1.4. Day 4 - 12/14（六）](#14-day-4---1214六)
+    - [1.4.1. 名護鳳梨園](#141-名護鳳梨園)
+    - [1.4.2. 古宇利大橋南端觀景台](#142-古宇利大橋南端觀景台)
+    - [1.4.3. 古宇利蝦蝦飯](#143-古宇利蝦蝦飯)
+    - [1.4.4. 古宇利海洋塔](#144-古宇利海洋塔)
+    - [1.4.5. 那霸日航城市飯店](#145-那霸日航城市飯店)
+  - [1.5. Day 5 - 12/15（日）](#15-day-5---1215日)
+    - [1.5.1. 沖繩世界](#151-沖繩世界)
+    - [1.5.2. SAN-A浦添西海岸PARCO CITY](#152-san-a浦添西海岸parco-city)
+    - [1.5.3. 首里城（非必要）](#153-首里城非必要)
+  - [1.6. Day 6 - 12/16（一）](#16-day-6---1216一)
+    - [1.6.1. 國際通](#161-國際通)
+- [2. 出發前準備](#2-出發前準備)
+  - [2.1. 機票](#21-機票)
+  - [2.2. 租車](#22-租車)
+- [3. 花費](#3-花費)
+- [4. 參考資料](#4-參考資料)
 
-## 行程
+<div class="page"/>
 
-### Day 1 - 12/11（三）
+## 1. 行程
 
-交通時間
-{: .tabletitle}
+### 1.1. Day 1 - 12/11（三）
 
-``` mermaid
-graph TD
-    A == 30分鐘 ==> B == 1小時40分 ==> C == 20分鐘 ==> D
+Table: Day 1 行程列表
 
-    A(12:00 家)
-    B(12:30-15:30 高雄小港機場)
-    C(18:30-21:00 那霸機場)
-    D(21:30 Hotel Gran ViewGarden Okinawa)
+|    時間     | 行程                                                                                                                  |
+| :---------: | --------------------------------------------------------------------------------------------------------------------- |
+|    12:00    | 家                                                                                                                    |
+|      ↓      | 30分鐘                                                                                                                |
+| 12:30-15:30 | [高雄小港機場](#111-高雄小港機場)搭乘15:30班機                                                                            |
+|      ↓      | 1小時40分鐘                                                                                                           |
+| 18:30-21:00 | 18:30抵達[那霸機場](#113-那霸機場)，然後前往[珀塔瑪國內線到達大廳店](#112-珀塔瑪國內線到達大廳店)購買晚餐後搭乘計程車前往飯店 |
+|      ↓      | 20分鐘                                                                                                           |
+|    21:30    | 到達[Hotel Gran ViewGarden Okinawa](#114-hotel-gran-viewgarden-okinawa)辦理入住                                           |
 
-	click B "#高雄小港機場"
-	click C "#那霸機場"
-	click D "#hotel-gran-viewgarden-okinawa"
-```
+<div class="page"/>
 
-行程列表
-{: .tabletitle}
+#### 1.1.1. 高雄小港機場
 
-| 時間        | 行程                                                                                                                  |
-| ----------- | --------------------------------------------------------------------------------------------------------------------- |
-| 12:30-15:30 | 從家中開車前往[高雄小港機場](#高雄小港機場)搭乘15:30班機                                                              |
-| 18:30-21:00 | 18:30到達[那霸機場](#那霸機場)，然後前往[珀塔瑪國內線到達大廳店](#珀塔瑪國內線到達大廳店)購買晚餐後搭乘計程車前往飯店 |
-| 21:30       | 到達[Hotel Gran ViewGarden Okinawa](#hotel-gran-viewgarden-okinawa)辦理入住                                           |
+##### 1.1.1.1.  基本資訊
 
-#### 高雄小港機場
+- 地址：高雄市小港區中山四路2號
+[(Google Map)](https://maps.app.goo.gl/vC8fCnfcoqRqWpFm6){:target="_blank"}
 
-??? info "基本資訊"
-    - [Google Map](https://maps.app.goo.gl/vC8fCnfcoqRqWpFm6)
+##### 1.1.1.2. 停車
 
-停車
-{.contentheader}
+汽車可以直接停放小港機場附設的停車場，當日最高240元，每天00:00重新計算，可以使用[歐特儀-航空站停車預約平台](https://airport.altob.com.tw/)預約及查詢車位，到達方式參考下圖
 
-汽車可以直接停放小港機場附設的停車場，當日最高240元，每天00:00重新計算，
-可以使用[歐特儀-航空站停車預約平台](https://airport.altob.com.tw/)預約及查詢車位，到達方式參考下圖
+![停車場配置圖 <a href="https://www.kia.gov.tw/Transportation/Airporttraffic/Parking.html" target="_blank" rel="noopener noreferrer">(來源：高雄國際航空站)</a>](images/img-6.png)
 
-<figure markdown="span">
-    ![停車場配置圖](images/img-6.png)
-    <figcaption>停車場配置圖（[來源：高雄國際航空站](https://www.kia.gov.tw/Transportation/Airporttraffic/Parking.htm)）</figcaption>
-</figure>
+![汽車停車場路線指引 <a href="https://www.kia.gov.tw/Transportation/Airporttraffic/Parking.html" target="_blank" rel="noopener noreferrer">(來源：高雄國際航空站)</a>](images/img-7.png)
 
-<figure markdown="span">
-    ![汽車停車場路線指引-1](images/img-7.png)
-    <figcaption>汽車停車場路線指引（來源：[高雄國際航空站](https://www.kia.gov.tw/Transportation/Airporttraffic/Parking.htm)）</figcaption>
-</figure>
-<figure markdown="span">
-    ![汽車停車場路線指引-2](images/img-8.png)
-    <figcaption>汽車停車場路線指引（來源：[高雄國際航空站](https://www.kia.gov.tw/Transportation/Airporttraffic/Parking.htm)）</figcaption>
-</figure>
-<figure markdown="span">
-    ![汽車停車場路線指引-3](images/img-9.png)
-    <figcaption>汽車停車場路線指引（來源：[高雄國際航空站](https://www.kia.gov.tw/Transportation/Airporttraffic/Parking.htm)）</figcaption>
-</figure>
-<figure markdown="span">
-    ![汽車停車場路線指引-4](images/img-10.png)
-    <figcaption>汽車停車場路線指引（來源：[高雄國際航空站](https://www.kia.gov.tw/Transportation/Airporttraffic/Parking.htm)）</figcaption>
-</figure>
+![汽車停車場路線指引 <a href="https://www.kia.gov.tw/Transportation/Airporttraffic/Parking.html" target="_blank" rel="noopener noreferrer">(來源：高雄國際航空站)</a>](images/img-8.png)
 
-#### 珀塔瑪國內線到達大廳店
+![汽車停車場路線指引 <a href="https://www.kia.gov.tw/Transportation/Airporttraffic/Parking.html" target="_blank" rel="noopener noreferrer">(來源：高雄國際航空站)</a>](images/img-9.png)
 
-???info "基本資訊"
-    - 營業時間：7:00 - 21:00
-    - 地址： 沖繩縣那霸市鏡水150 那霸機場國內線航廈1F
-    - MAP Code： 331 232 79*00
+![汽車停車場路線指引 <a href="https://www.kia.gov.tw/Transportation/Airporttraffic/Parking.html" target="_blank" rel="noopener noreferrer">(來源：高雄國際航空站)</a>](images/img-10.png)
 
-地圖
-{.contentheader}
+<div class="page"/>
 
-<figure markdown="span">
-    ![珀塔瑪國內線到達大廳店位置](images/img-12.png)
-    <figcaption>珀塔瑪國內線到達大廳店位置（[來源：那霸空港](https://www.naha-airport.co.jp/zh-hant/access/taxi/)）</figcaption>
-</figure>
+#### 1.1.2. 珀塔瑪國內線到達大廳店
 
-菜單
-{.contentheader}
+##### 1.1.2.1. 基本資訊
+
+- 營業時間：7:00 - 21:00
+- 地址：沖繩縣那霸市鏡水150 那霸機場國內線航廈1F[(Google Map)](https://maps.app.goo.gl/gjNg7J34a1FKKcSS9){:target="_blank"}
+- MAP Code： 331 232 79*00
+
+##### 1.1.2.2. 地圖
+
+![珀塔瑪國內線到達大廳店位置 <a href="https://www.naha-airport.co.jp/zh-hant/access/taxi/" target="_blank" rel="noopener noreferrer">(來源：那霸空港)</a>](images/img-12.png)
+
+##### 1.1.2.3. 菜單
 
 所有飯糰均包含白米、雞蛋、午餐肉及海苔，珀塔瑪口味即為原味，其中**炸蝦塔塔醬**口味為最多人選擇
 
-<figure markdown="span">
-	![菜單-1](images/img-3.png)
-    <figcaption>菜單（[來源：pork tamago onigiri](http://porktamago.com/zh-TW/shop/)）</figcaption>
-</figure>
-<figure markdown="span">
-	![菜單-2](images/img-4.png)
-    <figcaption>菜單（[來源：pork tamago onigiri](http://porktamago.com/zh-TW/shop/)）</figcaption>
-</figure>
-<figure markdown="span">
-	![菜單-3](images/img-5.png)
-    <figcaption>菜單（[來源：pork tamago onigiri](http://porktamago.com/zh-TW/shop/)）</figcaption>
-</figure>
+![菜單 <a href="http://porktamago.com/zh-TW/shop/" target="_blank" rel="noopener noreferrer">(來源：pork tamago onigiri)</a>](images/img-3.png)
 
-#### 那霸機場
+![菜單 <a href="http://porktamago.com/zh-TW/shop/" target="_blank" rel="noopener noreferrer">(來源：pork tamago onigiri)</a>](images/img-4.png)
 
-地圖
-{.contentheader}
+![菜單 <a href="http://porktamago.com/zh-TW/shop/" target="_blank" rel="noopener noreferrer">(來源：pork tamago onigiri)</a>](images/img-5.png)
 
-<figure markdown="span">
-    ![計程車搭乘位置](images/img-11.png)
-    <figcaption>計程車搭乘位置（[來源：那霸空港](https://www.naha-airport.co.jp/zh-hant/access/taxi/)）</figcaption>
-</figure>
+<div class="page"/>
 
-#### Hotel Gran ViewGarden Okinawa
+#### 1.1.3. 那霸機場
 
-???info "基本資訊"
-    - 入住時間：15:00 - 10:00
-    - [Google Map](https://maps.app.goo.gl/Wo3V7oudsGcVJPaJ9)
-    - MAP Code： 232 543 706*60
+##### 1.1.3.1. 地圖
 
-房型價格
-{.contentheader}
+![計程車搭乘位置 <a href="https://www.naha-airport.co.jp/zh-hant/access/taxi/" target="_blank" rel="noopener noreferrer">(來源：那霸空港)</a>](images/img-11.png)
 
-<figure markdown="span">
-    ![飯店房型價格](images/img-13.png)
-    <figcaption>飯店房型價格（[來源：OTS HOTEL](https://www.otsinternational.jp/hotel/cnh/okinawa/tomishiro/47GVG/)）</figcaption>
-</figure>
+<div class="page"/>
 
-### Day 2 - 12/12（四）
+#### 1.1.4. Hotel Gran ViewGarden Okinawa
 
-交通時間
-{: .tabletitle}
+##### 1.1.4.1. 基本資訊
 
-``` mermaid
-graph TD
-    A == 3分鐘 ==> B == 20分鐘 ==> C  == 15分鐘 ==> D == 25分鐘 ==> F == 1分鐘 ==> G
-	D-. 35分鐘 .->E:::optional -. 30分鐘 .->F
+- 入住時間：15:00 - 10:00
+- 地址：沖縄県豊見城市豊崎3-82[（Google Map）](https://maps.app.goo.gl/Wo3V7oudsGcVJPaJ9){:target="_blank"}
+- MAP Code： 232 543 706*60
 
-        
-    A(Hotel Gran ViewGarden Okinawa)
-    B(0800-0900 OTS臨空豐崎營業所)
-    C(0930-1030 波上宮)
-    D(1100-1300 港川外人住宅)
-    E(沖繩兒童王國)
-    F(1500 VESSEL HOTELCAMPANA OKINAWA)
-    G(1600 美國村)
+##### 1.1.4.2. 價格
 
-	click B "#ots臨空豐崎營業所"
-	click C "#波上宮"
-	click D "#港川外人住宅"
-	click E "#沖繩兒童王國"
-	click F "#vessel-hotelcampana-okinawa"
-	click G "#美國村"
+![飯店房型價格 <a href="https://www.otsinternational.jp/hotel/cnh/okinawa/tomishiro/47GVG/" target="_blank" rel="noopener noreferrer">(來源：OTS HOTEL)</a>](images/img-13.png)
 
-	classDef optional  stroke-dasharray: 5 5
-```
+<div class="page"/>
 
-行程列表
-{: .tabletitle}
+### 1.2. Day 2 - 12/12（四）
 
-| 時間      | 行程                                                                            |
-| --------- | ------------------------------------------------------------------------------- |
-| 0800-0900 | 由飯店步行至[OTS臨空豐崎營業所](#ots臨空豐崎營業所)租車                         |
-| 0930-1030 | 至[波上宮](#波上宮)參拜後前往波之上臨港道路拍照                                 |
-| 1100-1400 | 到達[港川外人住宅](#港川外人住宅)後至[雞湯拉麵屋](#雞湯拉麵屋-いしぐふー)吃午餐 |
-| 1500-1600 | 至[VESSEL HOTELCAMPANA OKINAWA](#vessel-hotelcampana-okinawa)辦理入住           |
-| 1600-2000 | 至[美國村](#美國村)逛街                                                         |
+Table: Day 2 行程列表
 
-#### OTS臨空豐崎營業所
+|   時間    | 行程                                                                            |
+| :-------: | ------------------------------------------------------------------------------- |
+|   0750    | [Hotel Gran ViewGarden Okinawa](#114-hotel-gran-viewgarden-okinawa)             |
+|     ↓     | 3分鐘                                                                           |
+| 0800-0900 | [OTS臨空豐崎營業所](#121-ots臨空豐崎營業所)租車                                     |
+|     ↓     | 20分鐘                                                                          |
+| 0930-1030 | 至[波上宮](#122-波上宮)參拜後前往波之上臨港道路拍照                                 |
+|     ↓     | 15分鐘                                                                          |
+| 1100-1400 | 到達[港川外人住宅](#123-港川外人住宅)後至[雞湯拉麵屋](#124-雞湯拉麵屋-いしぐふー)吃午餐 |
+|     ↓     | 25分鐘                                                                          |
+| 1500-1600 | 至[VESSEL HOTELCAMPANA OKINAWA](#126-vessel-hotelcampana-okinawa)辦理入住           |
+|     ↓     | 1分鐘                                                                           |
+| 1600-2000 | 至[美國村](#127-美國村)逛街                                                         |
 
-???info "基本資訊"
-    - 營業時間：08:00 - 19:00
-    - [Google Map](https://maps.app.goo.gl/q7tjB4gyLh435Bqz9)
-    - MAP Code： 232 543 532*73
+#### 1.2.1. OTS臨空豐崎營業所
 
-#### 波上宮
+##### 1.2.1.1. 基本資訊
 
-???info "基本資訊"
-    - 營業時間：09:00 - 17:00
-    - [Google Map](https://maps.app.goo.gl/9pbfCevsqtKLsvfU7)
-    - MAP Code： 33 185 022*71
+- 營業時間：08:00 - 19:00
+- [Google Map](https://maps.app.goo.gl/q7tjB4gyLh435Bqz9)
+- MAP Code： 232 543 532*73
+
+#### 1.2.2. 波上宮
+
+##### 1.2.2.1. 基本資訊
+
+- 營業時間：09:00 - 17:00
+- [Google Map](https://maps.app.goo.gl/9pbfCevsqtKLsvfU7)
+- MAP Code： 33 185 022*71
+
+##### 1.2.2.2. 介紹
 
 波上宮在琉球八社中排名第一，並以「當國第一的神社」而受到尊崇。明治時期被列為官幣小社，是守護沖繩最偉大的神殿，但卻在大戰時被燒毀了。
 戰後，昭和二十八年重建正殿與社務所，三十六年重建前殿。平成五年，平成的御造營將正殿以外部分竣工。平成十八年，被指定為那霸市史蹟文化遺產。
@@ -236,21 +201,14 @@ graph TD
     <figcaption>御守（[來源：波上宮](https://www.otsinternational.jp/hotel/cnh/okinawa/tomishiro/47GVG/)）</figcaption>
 </figure>
 
-波上宮最佳拍照地點
-{.contentheader}
+##### 1.2.2.3. 波上宮最佳拍照地點
 
 可以拍到波上宮在斷崖的照片
-<figure markdown="span">
-	![最佳拍照地點-1](images/img-15.png)
-    <figcaption>波上宮最佳拍照地點（[來源：波比看世界](https://bobby.tw/2024-01-07-2698/)）</figcaption>
-</figure>
-<figure markdown="span">
-	![最佳拍照地點-2](images/img-16.png)
-    <figcaption>波上宮最佳拍照地點（[來源：波比看世界](https://bobby.tw/2024-01-07-2698/)）</figcaption>
-</figure>
 
-停車
-{.contentheader}
+![最佳拍照地點 <a href="https://bobby.tw/2024-01-07-2698/" target="_blank" rel="noopener noreferrer">(來源：波比看世界)</a>](images/img-15.png)
+![最佳拍照地點 <a href="https://bobby.tw/2024-01-07-2698/" target="_blank" rel="noopener noreferrer">(來源：波比看世界)</a>](images/img-16.png)
+
+##### 1.2.2.4. 停車
 
 波上宮本身有提供停車位，但限停30分鐘，若怕太趕可以至以下停車場
 
@@ -259,7 +217,7 @@ graph TD
     - MAP Code：33 155 705*13
     - 收費：20分鐘100円
 
-#### 港川外人住宅
+#### 1.2.3. 港川外人住宅
 
 地圖
 {.contentheader}
@@ -282,7 +240,7 @@ graph TD
 	- MAP Code：33 341 362*68
 	- 收費：第一小時300円，之後每小時100円
 
-#### 雞湯拉麵屋 いしぐふー
+#### 1.2.4. 雞湯拉麵屋 いしぐふー
 
 ???info "基本資訊"
     - 營業時間：10:00–15:00 (周六日延長至16:00，周一二公休)
@@ -316,7 +274,7 @@ graph TD
 	<figcaption>菜單（[來源：瓦妮又在吃](https://misshuan.tw/ishigufu-torisobaya-2018-0921/)）</figcaption>
 </figure>
 
-#### 沖繩兒童王國(非必要)
+#### 1.2.5. 沖繩兒童王國(非必要)
 
 ???info "基本資訊"
     - 營業時間：09:30 - 17:30（週二公休）
@@ -339,7 +297,7 @@ graph TD
 
 園區附設免費停車場，可容納約700台車
 
-#### VESSEL HOTELCAMPANA OKINAWA
+#### 1.2.6. VESSEL HOTELCAMPANA OKINAWA
 
 ???info "基本資訊"
     - 入住時間：14:00 - 11:00
@@ -354,25 +312,56 @@ graph TD
     <figcaption>飯店房型價格（[來源：OTS HOTEL](https://www.otsinternational.jp/hotel/cnh/okinawa/chatan/47BHK/)）</figcaption>
 </figure>
 
-#### 美國村
+#### 1.2.7. 美國村
 
-### Day 3 - 12/13（五）
+???info "基本資訊"
+    - 入住時間：10:00 - 22:00
+    - [Google Map](https://maps.app.goo.gl/MqfiU3yU8APaeLtt6)
+    - MAP Code： 33 526 422*38
+
+### 1.3. Day 3 - 12/13（五）
 
 ``` mermaid
 graph TD
-A == 車程時間 ==> B == 車程時間 ==>  C == 車程時間 ==> D
+A == 40分鐘 ==> B == 50分鐘 ==>  C == 30分鐘 ==> D == 20分鐘 ==> E == 10分鐘 ==> F
 
-    A(VESSEL HOTELCAMPANA OKINAWA)
-    B(萬座毛)
-    C(海洋博公園)
-    D(沖繩餘家弗酒店)
+    A(0830 VESSEL HOTELCAMPANA OKINAWA)
+    B(0930-1030 萬座毛)
+	C(百年古家大家阿古豬)
+    D(海洋博公園)
+	E(暖暮拉麵名護店)
+    F(沖繩餘家弗酒店)
 ```
 
-#### 萬座毛
+#### 1.3.1. 萬座毛
 
-#### 海洋博公園
+???info "基本資訊"
+    - 營業時間：08:00–19:00
+    - [Google Map](https://maps.app.goo.gl/EW6XAkSjfRn29GAi8)
+    - MAP Code： 206 312 128*16
 
-#### 沖繩餘家弗酒店
+#### 1.3.2. 百年古家大家阿古豬
+
+???info "基本資訊"
+    - 營業時間：11:00–15:30
+    - [Google Map](https://maps.app.goo.gl/NwTPXfM1e6QwUB64A)
+    - MAP Code： 206 745 056*68
+
+#### 1.3.3. 海洋博公園
+
+???info "基本資訊"
+    - 營業時間：08:00–18:00
+    - [Google Map](https://maps.app.goo.gl/5PmCrwsP2ULPYbMh8)
+    - MAP Code： 553 075 767*74
+
+#### 1.3.4. 暖暮拉麵名護店
+
+???info "基本資訊"
+    - 營業時間：10:00–00:00
+    - [Google Map](https://maps.app.goo.gl/TjcPFYQPfvTb5dbn7)
+    - MAP Code： 206 598 341*44
+
+#### 1.3.5. 沖繩餘家弗酒店
 
 ???info "基本資訊"
     - 入住時間：15:00 - 11:00
@@ -387,7 +376,7 @@ A == 車程時間 ==> B == 車程時間 ==>  C == 車程時間 ==> D
     <figcaption>飯店房型價格（[來源：OTS HOTEL](https://www.otsinternational.jp/hotel/cnh/okinawa/nago/47HYO/)）</figcaption>
 </figure>
 
-### Day 4 - 12/14（六）
+### 1.4. Day 4 - 12/14（六）
 
 ``` mermaid
 graph TD
@@ -401,15 +390,15 @@ A == 車程時間 ==> B == 車程時間 ==> C  == 車程時間 ==> D == 車程�
     F(那霸日航城市飯店)
 ```
 
-#### 名護鳳梨園
+#### 1.4.1. 名護鳳梨園
 
-#### 古宇利大橋南端觀景台
+#### 1.4.2. 古宇利大橋南端觀景台
 
-#### 古宇利蝦蝦飯
+#### 1.4.3. 古宇利蝦蝦飯
 
-#### 古宇利海洋塔
+#### 1.4.4. 古宇利海洋塔
 
-#### 那霸日航城市飯店
+#### 1.4.5. 那霸日航城市飯店
 
 ???info "基本資訊"
     - 入住時間：15:00 - 11:00
@@ -424,7 +413,7 @@ A == 車程時間 ==> B == 車程時間 ==> C  == 車程時間 ==> D == 車程�
     <figcaption>飯店房型價格（[來源：OTS HOTEL](https://www.otsinternational.jp/hotel/cnh/okinawa/naha/47JCN/)）</figcaption>
 </figure>
 
-### Day 5 - 12/15（日）
+### 1.5. Day 5 - 12/15（日）
 
 ``` mermaid
 graph TD
@@ -440,13 +429,13 @@ E(首里城)
 classDef optional  stroke-dasharray: 5 5
 ```
 
-#### 沖繩世界
+#### 1.5.1. 沖繩世界
 
-#### SAN-A浦添西海岸PARCO CITY
+#### 1.5.2. SAN-A浦添西海岸PARCO CITY
 
-#### 首里城（非必要）
+#### 1.5.3. 首里城（非必要）
 
-### Day 6 - 12/16（一）
+### 1.6. Day 6 - 12/16（一）
 
 ``` mermaid
 graph TD
@@ -459,9 +448,9 @@ D(高雄機場)
 E(家)
 ```
 
-#### 國際通
+#### 1.6.1. 國際通
 
-## 出發前準備
+## 2. 出發前準備
 
 - [ ] 拍證件照
 - [ ] 辦理護照
@@ -474,7 +463,7 @@ E(家)
 - [ ] 購買真空袋
 - [ ] 購買防風衣物
 
-### 機票
+### 2.1. 機票
 
 機票因選擇經濟樂活價位故沒有免費選位，未避免屆時沒有在相鄰座位，故有付費選擇偏好座位，總花費NT.30905
 
@@ -488,27 +477,28 @@ E(家)
     <figcaption>選位費</figcaption>
 </figure>
 
-### 租車
+### 2.2. 租車
 
 <figure markdown="span">
 	![租車費](images/img-24.png)
     <figcaption>租車費</figcaption>
 </figure>
 
-## 花費
+## 3. 花費
 
 台幣及日幣欄位均有填寫代表該項目以日幣付款並除以5算出折合台幣價格，實際價格須依匯率計算
 
 | 項目                                     |  台幣  |  日幣  |
 | ---------------------------------------- | :----: | :----: |
 | 機票（來回+選位）                        | 30,905 |        |
+| 小港機場停車費（6天）                    |1,440|        |
 | 租車（五天+定額ETC+安全座椅+尊爵安心險） | 10280  | 51,400 |
 | Hotel Gran ViewGarden Okinawa（1晚）     |  2860  | 14,300 |
 | VESSEL HOTELCAMPANA OKINAWA（1晚）       |  2650  | 13,254 |
 | 沖繩餘家弗酒店（1晚）                    |  1800  | 9,000  |
 | 那霸日航城市飯店（2晚）                  |  5760  | 28,800 |
-| 合計                                     | 54,255 |        |
+| 合計                                     | 55,665 |        |
 
-## 參考資料
+## 4. 參考資料
 
 - [波比看世界](https://bobby.tw/2024-03-05-3072/)
