@@ -25,7 +25,7 @@
 
 {% set page_image = config.site_url ~ "assets/banner.jpg" %}
 {% if page and page.meta and page.meta.banner %}
-    {% set page_image = post.canonical_url ~ "/images/" ~ post.meta.banner %}
+    {% set page_image = page.canonical_url ~ "/images/" ~ page.meta.banner %}
 {% endif %}
 
 {% if page and page.meta and page.meta.tags %}
