@@ -1,5 +1,1 @@
----
-
-template: "redirect.html"
-location: "blog/"
----
+# Home
