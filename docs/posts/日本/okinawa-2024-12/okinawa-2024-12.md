@@ -3,7 +3,7 @@ title: 2024年12月沖繩六天 五夜自由行規劃
 description: 首次自由行規劃
 date: 2024-08-10
 categories:
-    - Okinawa
+    - 日本
 tags:
     - 日本
     - 沖繩
